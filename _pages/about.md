@@ -10,4 +10,5 @@ redirect_from:
 I am a PhD student in the [Logic and Types](https://www.chalmers.se/en/departments/cse/our-research/computing-science/logic-and-types/) unit in the shared [Department of Computer Science and Engineering](https://www.chalmers.se/en/departments/cse/) of the [University of Gothenburg](https://www.gu.se/en) and [Chalmers University of Technology](https://www.chalmers.se/en/).
 I am supervised by [Thierry Coquand](https://www.cse.chalmers.se/~coquand/) and [Christian Sattler](https://www.cse.chalmers.se/~sattler/).
 
-My current work is on constructive semantics of homotopy type theory and its extensions.
+My work is on semantics of homotopy type theory and its extensions used for justifying synthetic mathematics.
+I am particularly interested in developing these semantics in a constructive meta theory.
