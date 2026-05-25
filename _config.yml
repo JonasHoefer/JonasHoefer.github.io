@@ -89,7 +89,7 @@ publication_category:
   publications:
     title: 'Publications'
   thesis:
-    title: 'Thesis'
+    title: 'Thesis, etc.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
